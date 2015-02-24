@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppIdeas</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_idea">Add Idea</string>
+    <string name="edit_app_name">App name...</string>
+    <string name="edit_app_desc">Idea description...</string>
+    <string name="button_save">Save</string>
+
+    <string name="toast_app_saved">App Saved.</string>
+    <string name="toast_err_app_name">Enter app name.</string>
+    <string name="toast_err_app_desc">Enter app description.</string>
+</resources>
